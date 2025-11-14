@@ -11,7 +11,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://python.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green.svg)](https://mongodb.com/)
 
-**[🚀 Live Demo](https://agrisage-demo.com)** • **[📖 Documentation](https://docs.agrisage.com)** • **[🐛 Report Bug](https://github.com/yourusername/agrisage/issues)** • **[✨ Request Feature](https://github.com/yourusername/agrisage/issues)**
+**[📖 Documentation](https://docs.agrisage.com)** • **[🐛 Report Bug](https://github.com/yourusername/agrisage/issues)** • **[✨ Request Feature](https://github.com/yourusername/agrisage/issues)**
 
 </div>
 
