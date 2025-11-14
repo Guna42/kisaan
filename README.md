@@ -455,29 +455,6 @@ git push origin feature/amazing-feature
 # 5. Open a Pull Request
 ```
 
-### 🏆 **Contributors Hall of Fame**
-
-<div align="center">
-
-**Thanks to these amazing people for making AgriSage better!** 🎉
-
-<br/>
-
-```
-👥 Our Amazing Contributors 👥
-
-🌟 [View All Contributors on GitHub] 🌟
-https://github.com/yourusername/agrisage/graphs/contributors
-
-Once you have contributors, their avatars will appear here!
-For now, be the first to contribute! 🚀
-```
-
-<br/>
-
-**Want to see your face here?** [Start Contributing Now!](#-contributing-to-the-future-of-agriculture)
-
-</div>
 
 ---
 
